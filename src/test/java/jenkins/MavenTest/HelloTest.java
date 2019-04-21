@@ -22,7 +22,7 @@ public class HelloTest extends TestCase
      */
     public static Test suite()
     {
-    	System.out.println("Hello Test suite method which returns true");
+    	System.out.println("Hello Test suite method which returns true 1111111111111111111111111111111111111111111");
         return new TestSuite( AppTest.class );
     }
 
